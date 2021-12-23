@@ -1,10 +1,15 @@
 <template>
-  <div>首页</div>
+  <!--  三级联动导航栏-->
+  <div>
+    <TypeNav></TypeNav>
+  </div>
+
 </template>
 
 <script>
+
 export default {
-  name: "index"
+  name: "Home",
 }
 </script>
 
